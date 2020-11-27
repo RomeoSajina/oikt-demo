@@ -1,2 +1,1 @@
-Demo OIKT
-abd 
+Dajte mi bod
