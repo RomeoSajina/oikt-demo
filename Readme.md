@@ -4,9 +4,13 @@
 ###### Najmanji
 
 običan tekst
+
 **Boldan text**
+
 *Italic text*
+
 _italic_
+
 ~~strike~~
 
 **_neki text_**
